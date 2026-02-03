@@ -18,4 +18,3 @@ Student at NCST
 <a href="https://www.x.com/NV23115" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/NV23115?logo=twitter&style=for-the-badge&color=ffffff&labelColor=1c1917"
 /></a>
-### Badges
