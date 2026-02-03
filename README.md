@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student at NCST
 ---------------
 
-* 🌍  I'm based in **Bhrain/Riffa**
+* 🌍  I'm based in **Bahrain/Riffa**
 * ✉️  You can contact me at **[nv23115@ncst.edu.bh](mailto:nv23115@ncst.edu.bh)**
 * 🌱 I’m currently learning **Cloud Computing**
 
